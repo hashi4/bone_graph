@@ -54,7 +54,7 @@ Graphvizはsvgやpdfのようなベクトル形式にも、pngやjpgのような
     * `dot -Tpng legend.dot -o legend.png`
 
 * SVG形式へ変換する例
-    * `dot -Tsvg -legend.dot -o legend.svg`
+    * `dot -Tsvg legend.dot -o legend.svg`
 
 ## 図の説明
 概要で示した図が凡例となります。  
